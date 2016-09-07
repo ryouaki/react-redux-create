@@ -16,6 +16,14 @@ react-redux-create -h
 react-redux-create -v
 ```
 
+# run app
+```
+react-redux-create app
+cd app
+npm install
+npm run start 
+```
+
 # author
 Ryouaki(46517115@qq.com)
 

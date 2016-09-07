@@ -16,5 +16,9 @@
   "bin": {
     "react-redux-create": "index.js"
   },
-  "homepage": "https://github.com/ryouaki"
+  "homepage": "https://github.com/ryouaki",
+  "repository" :  
+  { "type" : "git"  
+  , "url" : "https://github.com/ryouaki/react-redux-create.git"  
+  }  
 }
