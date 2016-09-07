@@ -10,8 +10,10 @@ import { Router, hashHistory } from 'react-router';
 
 import Routes from './routes';
 
-const createStoreWithMiddleware = applyMiddleware(
+import MainMiddleWare from './middlewares/mainMiddleWare';
 
+const createStoreWithMiddleware = applyMiddleware(
+    MainMiddleWare
 )(createStore);
 
 ReactDOM.render(
