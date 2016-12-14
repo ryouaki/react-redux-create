@@ -25,7 +25,12 @@ npm run start
 ```
 
 # change log
-2016-12-14 update create-react-app from 0.6 to 1.0.2
+- 2016-12-14 
+  - update create-react-app from 0.6 to 1.0.2
+  - update react-redux from ^4.4.5 to ^5.0.0
+  - update react-router from ^2.7.0 to ^3.0.0
+  - update react from ^15.3.1 to ^15.4.1
+  - update react-dom from ^15.3.1 to ^15.4.1
 
 # author
 Ryouaki(46517115@qq.com)
