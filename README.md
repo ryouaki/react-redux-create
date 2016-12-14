@@ -24,6 +24,9 @@ npm install
 npm run start 
 ```
 
+# change log
+2016-12-14 update create-react-app from 0.6 to 1.0.2
+
 # author
 Ryouaki(46517115@qq.com)
 
