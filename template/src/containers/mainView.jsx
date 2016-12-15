@@ -17,12 +17,7 @@ class MainView extends React.Component {
             <div>
                 <HeaderBar/>
                 {
-                    this.props.message && 
-                    <div>
-                        {this.props.message.message} <br/>
-                        {this.props.message.author} <br/>
-                        {this.props.message.contact} <br/>
-                    </div>
+                    this.props.message 
                 }
                 <FooterBar/>
             </div>

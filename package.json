@@ -1,6 +1,6 @@
 {
   "name": "react-redux-create",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "This is a tool for create a empty reactjs project with redux.",
   "main": "index.js",
   "dependencies": {},
