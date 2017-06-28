@@ -1,3 +1,5 @@
+# I am very sorry for that I have no enough time to upgrade this tools from webpack 1.x to webpack 2.x (T_T)
+
 # Description
 This is a devTools for reactjs. This tool can create a reactjs empty with reactjs&redux.
 So you can work with reactjs&redux quickly.
